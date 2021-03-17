@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Viewing Project
 
-Tis project can be viewed [Here] (https://nervous-brown-ea05d2.netlify.app/)
+Tis project can be viewed at (https://nervous-brown-ea05d2.netlify.app/)
 
 ## Available Scripts
 
